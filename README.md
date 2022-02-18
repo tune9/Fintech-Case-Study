@@ -1,11 +1,12 @@
-# Fintech-Case-Study
+# A Detailed Guide to Cardano
 This is a detailed deep dive into the Cardano blockchain intended for all audiences.
 
 By **Tunde Hambolu** Feb 18, 2022
 
 ![Cardano Logo](https://cdn.pixabay.com/photo/2021/06/03/09/04/cardano-6306459_960_720.png)
 ## **Overview and Origin** 
-Cardano was founded in 2015 by Ethereum (a decentralized,open-source blockchain with smart contract functionality) co-founder, Charles Hoskinson, to provide a more balanced and sustainable ecosystem for cryptocurrencies. The company was built as an open-source blockchain that undergoes a rigorous peer-review process by scientists and programmers in academia. According to its website, Cardano’s native token coin, ADA, is the only coin with a “scientific philosophy and research-driven approach. The main purpose of this community of scientists, engineers and leaders is to unite in order to create a technology platform that will ignite the positive change the world needs. This is all made possible financially due to a built-in treasury system that gets a constant stream of funds from transaction fees and treasury taxes. The platform was designed with sustainability in mind in order to create a system that governs and also finances itself without being dependent on donations. However, according to Crunchbase, the company has raised a total of $62.2M in funding over 4 rounds beginning with their Initial Coin Offering in October of 2015 and the latest round in January of 2018.  
+Cardano was founded in 2015 by Ethereum (a decentralized,open-source blockchain with smart contract functionality) co-founder, Charles Hoskinson, to provide a more balanced and sustainable ecosystem for cryptocurrencies. The company was built as an open-source blockchain that undergoes a rigorous peer-review process by scientists and programmers in academia. According to its website, Cardano’s native token coin, ADA, is the only coin with a “scientific philosophy and research-driven approach. The main purpose of this community of scientists, engineers and leaders is to unite in order to create a technology platform that will ignite the positive change the world needs. This is all made possible financially due to a built-in treasury system that gets a constant stream of funds from transaction fees and treasury taxes. The platform was designed with sustainability in mind in order to create a system that governs and also finances itself without being dependent on donations. However, according to Crunchbase, the company has raised a total of $62.2M in funding over 4 rounds beginning with their Initial Coin Offering in October of 2015 and the latest round in January of 2018. <p></p>
+
 
 ## **Purpose** 
 Diving into the root of the problems Cardano is primarily attempting to solve - scaling and infrastructure. The company believes that ADA is the first third generation cryptocurrency with bitcoin being a first-generation cryptocurrency that introduced the idea of digital coins and ethereum, a second generation cryptocurrency that expanded the use cases for coins to smart contracts. Therefore Cardano’s goal is to solve the problems related to scalability, interoperability and sustainability on cryptocurrency platforms. 
@@ -36,3 +37,11 @@ Cardano has experienced sustained growth, technical innovation, community expans
 
 ## **Recommendations**
 In terms of pure retail adoption, I would like to see Cardano become a bigger player in the Defi space and build its own NFT (Non-Fungible Tokens) marketplace. Although it was reported by CoinJournal that over 2 million NFT minted so far, that number would grow significantly more if it created its own marketplace like its competitor Solana. With the highest mainstream adoption currently coming from NFTs combined with Cardano’s impressive transaction speeds and low fees, the growth will be massive. 
+
+
+## Citations 
+Sharma, Rakesh. “Cardano Aims to Create a Stable Cryptocurrency Ecosystem.” Investopedia, Investopedia, 26 Jan. 2022, https://www.investopedia.com/news/introduction-cardano/. 
+ 
+ Michael Gu. “What Is Cardano ($ADA)?” Boxmining, 21 Jan. 2022, https://boxmining.com/cardano/. 
+
+ “Discover Cardano.” Cardano, https://cardano.org/discover-cardano#purpose. 
