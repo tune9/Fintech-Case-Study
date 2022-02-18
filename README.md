@@ -1,5 +1,5 @@
 # Fintech-Case-Study
-This is a detailed deep dive into the Cardano blockchain intended for all audience.
+This is a detailed deep dive into the Cardano blockchain intended for all audiences.
 
 By **Tunde Hambolu** Feb 18, 2022
 
